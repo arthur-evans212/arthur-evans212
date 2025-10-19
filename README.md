@@ -9,7 +9,7 @@
 
 
 <!-- Introduction -->
-<h1> Hello, I'm a blockchain developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" width="70"/></h1>
+<h1> Hello, I'm a blockchain & Full stack developer <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chains.png" width="70"/></h1>
 <div align="left">
 <div align="right">
   <img src="images/123Z_2101.w020.n001.946B.p15.946.jpg" width="100%" alt="Blockchain Developer" />
@@ -203,55 +203,4 @@ I specialize in creating end-to-end solutions that merge cutting-edge AI capabil
 - **Security Auditor** - Immunefi Bug Bounty Program
   
 
-<div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app?username=hiroshisekiya644&column=9&row=2&margin-w=15&padding=10&show_icons=true&line_height=30&theme=algolia" height="150" alt="constellation-infinity graph" />
-<!--
- <a href="https://github.com/hiroshisekiya644#gh-light-mode-only">
-   <img src="images/profile-custom-season.svg" width="100%" alt="GitHub Activity in Season Colors">
- </a>
- <a href="https://github.com/hiroshisekiya644#gh-dark-mode-only">
-   <img src="images/profile-custom-rainbow.svg" width="100%" alt="GitHub Activity in Rainbow Colors">
- </a>
--->
- </div>
-
-## 📈 Github State
-<div align="center">
- <!-- Dynamic contribution graph - shows your activity in real-time -->
-   <a href="https://github.com/constellation-infinity#gh-light-mode-only">
-<!--transmissions11-->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=constellation-infinity&hide_title=true&theme=minimal&hide_border=true&area=true&bg_color=transparent&color=0099cc&point=006699&line=0099cc&area_color=008cbb&title_color=#cbce7eb&text_color=57606A" width="100%" style="background: transparent;">
- <a href="https://github.com/constellation-infinity#gh-dark-mode-only">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=constellation-infinity&hide_title=true&theme=react-dark&hide_border=true&area=true&" width="100%">
- </a>
-</div>
-
-<div align="left">
-
-## 🚀 Featured Projects
-</div>
-<!-- Dynamic repository cards - update automatically with latest stats -->
-<div align="center">
-<a href="https://github.com/constellation-infinity/creon-tech-showcase">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=creon-tech-showcase&theme=ambient_gradient&cache_seconds=1800&show_owner=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=creon-tech-showcase&cache_seconds=1800&show_owner=true" media="(prefers-color-scheme: light)"/>
-</picture>
-</a>
-
-<a href="https://github.com/constellation-infinity/abdk-libraries-solidity">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=abdk-libraries-solidity&theme=ambient_gradient&cache_seconds=1800&show_owner=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=constellation-infinity&repo=abdk-libraries-solidity&cache_seconds=1800&show_owner=true" media="(prefers-color-scheme: light)"/>
-</picture>
-</a>
-
-</div>
-</div>
